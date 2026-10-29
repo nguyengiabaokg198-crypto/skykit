@@ -2,12 +2,8 @@
 	"type": "minecraft:crafting_shapeless",
 	"category": "misc",
 	"ingredients": [
-		{
-			"item": "minecraft:paper"
-		},
-		{
-			"item": "minecraft:redstone"
-		}
+		"minecraft:paper",
+		"minecraft:redstone"
 	],
 	"result": {
 		"id": "skykit:blueprint_paper",
