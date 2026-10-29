@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "skykit",
+	"version": "${version}",
+	"name": "SkyKit",
+	"description": "SkyKit: one-block skyblock survival kit - auto bridge builder, auto replant crops, and cross-world Blueprints (capture a build in one world, rebuild it in another by just holding the materials). Touch-friendly, GUI buttons only.",
+	"authors": ["hai"],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/skykit/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.skykit.SkyKit"],
+		"client": ["com.skykit.client.SkyKitClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

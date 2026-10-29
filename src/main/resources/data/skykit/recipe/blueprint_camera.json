@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"IGI",
+		"IRI"
+	],
+	"key": {
+		"I": "minecraft:iron_ingot",
+		"G": "minecraft:glass",
+		"R": "minecraft:redstone"
+	},
+	"result": {
+		"id": "skykit:blueprint_camera"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"IRI",
+		" S "
+	],
+	"key": {
+		"I": "minecraft:iron_ingot",
+		"R": "minecraft:redstone",
+		"S": "minecraft:stick"
+	},
+	"result": {
+		"id": "skykit:skykit_controller"
+	}
+}
